@@ -1,0 +1,25 @@
+#GreenBay{
+  font-family: 'Fira Sans Condensed', sans-serif;
+  color: green;
+  font-style: italic;
+  font-weight: 800;
+}
+#Schedule{
+  font-family: arial;
+  color: green;
+  font-weight:400;
+}
+#Roster{
+  font-family: arial;
+  color: green;
+  font-weight:400;
+}
+th{
+  color: green;
+  font-family: 'Fira Sans Condensed', sans-serif;
+  font-weight: 500;
+}
+td{
+  font-family: times;
+  font-weight: 500;
+}
